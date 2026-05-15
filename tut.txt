@@ -1,0 +1,13 @@
+官方群组 @heikeddos  @heikedos 官方频道 @fmlanquan
+
+Weare 伐木累 https://t.me/fml888
+拥有三个用户名哦！ 
+@fml888 @fmlddos @famulei888
+
+
+构建自己的proxy代理池http
+
+mysql+redis
+ulimit -n 999999
+nohup ./proxypool
+./proxypool

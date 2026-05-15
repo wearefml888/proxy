@@ -1,0 +1,18 @@
+{
+  "_说明": "【代理池系统配置文件】请严格按照格式填写，注意英文双引号和逗号不要删掉！",
+  
+  "port": 8888,
+  "_port说明": "网站运行的端口，如果是8888，访问地址就是 http://你的IP:8888",
+  
+  "admin_user": "admin",
+  "admin_pass": "admin123",
+  "_admin说明": "以上两行是管理员后台(/admin)的登录账号和密码，请自行修改",
+  
+  "mysql_dsn": "proxy:proxy123@tcp(127.0.0.1:3306)/proxy?charset=utf8mb4&parseTime=True&loc=Local",
+  "_mysql说明": "MySQL数据库连接格式【 账号:密码@tcp(IP:端口)/数据库名字?后面的不要动 】",
+  
+  "redis_addr": "127.0.0.1:6379",
+  "redis_pass": "",
+  "redis_db": 0,
+  "_redis说明": "Redis缓存配置：addr填IP和端口，pass填密码(没密码就留空双引号)，db保持0即可"
+}
