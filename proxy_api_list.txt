@@ -496,3 +496,4 @@ http://www.freeproxy-list.ru/api/proxy?token=demo
 http://sergei-m.narod.ru/proxy.htm
 http://webcr.narod.ru/proxy.htm
 https://api.proxyscrape.com/?request=displayproxies&proxytype=http&https
+https://rcloak.com/api/proxies/raw?protocol=all
